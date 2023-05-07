@@ -43,17 +43,28 @@ Here are the manual exact instructions if you need it for some reason:
 				INSTRUCTIONS (manually):
 
 Open terminal;
+
 Type: cd <path to ipwndfu folder>;
+
 Type: ./ipwndfu -p;
+
 Open iTunes. It should say your device is in recovery mode. Option/Alt click "restore iPod" and select the custom iOS 7.0 firmware.  Now wait for it to restore.
 
 How to boot:
 
 Open terminal;
+
 Type: cd <path to Keys Server folder>;
+
 Type: sudo python -m SimpleHTTPServer 80;
+
 Put the device in pwned DFU mode using ipwndfu; (as done earlier)
+
 Open new terminal window;
+
 Type: cd <path to futurerestore folder>;
+
 Type: ./futurerestore --use-pwndfu --just-boot=“-v” /Users/*name of home folder*/Custom7ipsw/iPod4,1_6.1.6_10B500_Restore.ipsw
+
 If something is not working please refer back to the video tutorial by me (link:
+
