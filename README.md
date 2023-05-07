@@ -1,8 +1,11 @@
 #ipodtouch4ios7
 
 Scripting made by AppleHelper Mark
+
 Youtube: https://youtube.com/@AppleHelperMark
+
 Twitter: https://twitter.com/applehelpermark
+
 Instagram: https://instagram.com/applehelpermark
 
 Credits: @91_Tech for the Instructions (Youtube + Twitter + Instagram) and @Ralph0045 for exploit
